@@ -1,0 +1,13 @@
+{
+  "name": "my-claude-tools",
+  "owner": { "name": "Your Name" },
+  "plugins": [
+    {
+      "name": "ship-pipeline",
+      "source": "./ship-pipeline",
+      "description": "Plan -> implement -> test -> review pipeline, looping until review passes.",
+      "version": "1.0.0",
+      "author": { "name": "Your Name" }
+    }
+  ]
+}

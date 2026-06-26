@@ -1,0 +1,9 @@
+{
+  "name": "action-ship",
+  "description": "A /ship workflow: plan -> implement -> test -> review, looping until the review passes. Bundles four subagents and an orchestrator skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name"
+  },
+  "license": "MIT"
+}
